@@ -1,0 +1,21 @@
+Login
+
+로고 중앙에 배치x
+
+import logo from "../../../assets/logo/logo.png";
+
+<div styled = "text-align:center;">
+                <img src = {logo} alt = "logo"></img>
+</div>
+
+아이디 비번 
+spellcheck - > 철자와 문법검사
+
+react outside click
+-> 모달창이라고 부름
+다른 곳 클릭시 닫히는것
+
+Ref이용 - 애플리케이션에서 "어떤 일이 일어나게" 할 때 사용함.
+몰라서 leader github 참고
+
+포기함!
